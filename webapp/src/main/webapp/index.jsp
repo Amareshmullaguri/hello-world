@@ -1,2 +1,2 @@
-<h1>new Hello Tririga Dev  </h2>
+<h1>Hello IBM Tririga Devops  </h2>
 
