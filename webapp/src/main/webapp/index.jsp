@@ -1,2 +1,2 @@
-<h1>Hello IBM Tririga Devops Team SrAVANu</h2>
+<h1>Hello IBM Tririga Devops Team</h2>
 
